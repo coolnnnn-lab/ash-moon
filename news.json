@@ -1,4 +1,11 @@
 [
+    {
+    "id": "modpack-update-3",
+    "date": "2026-07-29",
+    "title": "Глобальная смена модпака",
+    "text": "полностью изминен мод пак. Добавлена Aeronautics.",
+    "important": true
+  },
   {
     "id": "modpack-update-2",
     "date": "2026-07-29",
